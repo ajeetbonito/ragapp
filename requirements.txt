@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+byaldi
+together
+pdf2image
+poppler-utils
