@@ -1,5 +1,5 @@
 from fastapi import APIRouter
-from app.services.indexation_service import index_doc
+from app.services.indexation_service import index_docs
 
 router = APIRouter()
 
